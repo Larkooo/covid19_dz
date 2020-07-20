@@ -11,7 +11,7 @@ var brightness = SchedulerBinding.instance.window.platformBrightness;
 bool darkModeOn = brightness == Brightness.dark;
 
 void main() => runApp(MaterialApp(
-    title: "GNav",
+    title: "Covid-19 Algeria",
     theme: ThemeData(
       primaryColor: Colors.grey[800],
     ),
