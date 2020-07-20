@@ -21,5 +21,3 @@ doc/api/
 *.js.map
 android/app/src/main/AndroidManifest.xml
 .flutter-plugins-dependencies
-android/app/src/main/AndroidManifest.xml
-.flutter-plugins-dependencies
