@@ -27,7 +27,7 @@ class _Main extends State<Main> {
   List<Widget> _widgetOptions = <Widget>[
     SafeArea(child: Wilayas()),
     SafeArea(child: Home()),
-    SafeArea(child: Map()),
+    Map(),
   ];
 
   @override
