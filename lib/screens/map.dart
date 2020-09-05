@@ -13,7 +13,7 @@ Future<List> getMapWilayas() async {
   if (response.statusCode == 200) {
     return entireData["infectedByRegion"];
   } else {
-    throw ("Could not fetch launches");
+    throw ("Could not fetch wilayas");
   }
 }
 
